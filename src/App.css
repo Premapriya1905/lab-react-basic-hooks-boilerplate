@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+}
+#div{
+  margin-top: 2vw;
+  height: 20vw;
+}
+
+#parent{
+  display: flex;
+  justify-content: center;
+  margin-top: 1vw;
+  width: 90vw;
+}
+#text{
+  text-align: center;
+}
+
